@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivy Prada</h1>
 <h3 align="center">An explorer navigating the world of tech</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2Z3A3YnI0cmJ3a2thNW1mZjUza2d6ZXZ6eXJjMHZ4OGF5enVsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvAQQyVY9/giphy.gif" width="400" alt="Coding GIF">
+  <img <img width="736" height="414" alt="Developer mode on" src="https://github.com/user-attachments/assets/b11b28ed-d3d6-4a1d-975d-263e380f8ee5" />
 </p>
 
 ## 🚀 About Me
