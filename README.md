@@ -10,23 +10,25 @@
 - 🔭 Working on exciting projects
 - 🌱 Currently learning new technologies
 
-<!-- Connect Section -->
-<h2>🌐 Connect With Ivy</h2>
+<!-- Connect Section (Vertical List / Pababa) -->
+<h2>🌐 Connect With Me</h2>
 
 <p align="left">
-  <!-- Facebook -->
   <a href="https://www.facebook.com/ivy.prada.3" target="_blank">
-    <img src="https://img.shields.io/badge/Ivy_Prada-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="20" height="20" alt="Facebook" /> <b>Ivy Prada</b>
   </a>
+</p>
 
-  <!-- Instagram -->
+<p align="left">
   <a href="https://instagram.com/ae.lavia?stkn=MWM1cHQwZ2ExaTM0eQ%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/@ae.lavia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="20" height="20" alt="Instagram" /> <b>@ae.lavia</b>
   </a>
+</p>
 
-  <!-- Email -->
+
+<p align="left">
   <a href="mailto:angelivyprada09@gmail.com">
-    <img src="https://img.shields.io/badge/angelivyprada09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="Gmail" /> <b>angelivyprada09@gmail.com</b>
   </a>
 </p>
 
