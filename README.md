@@ -18,7 +18,7 @@
 ---
 
 <!-- Connect Section (Icon + Text only, no boxes) -->
-## 🌐 Connect With Me
+## 🌐 Connect With Ivy
 
 <p align="left">
   <!-- Facebook -->
