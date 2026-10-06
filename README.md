@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ivy Prada</h1>
-<h3 align="center">An explorer navigating the world of tech</h3>
-
-<!-- Banner / GIF Section -->
+<!-- Pixel Art Header Picture -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2Z3A3YnI0cmJ3a2thNW1mZjUza2d6ZXZ6eXJjMHZ4OGF5enVsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvAQQyVY9/giphy.gif" width="400" alt="Coding GIF">
+<img width="1920" height="950" alt="h1 align=centerHi 👋, I&#39;m Ivy Pradah1 h3 align=centerAn explorer navigating the world of techh3 !-- Banner  GIF Section -- p align=center img" src="https://github.com/user-attachments/assets/8ae72926-cb46-4ebd-85b9-008813a1ceb4"
 </p>
 
 ## 🚀 About Me
--- 👩‍🎓Second year college student at PUPLC
+- 👩‍🎓 Second year college student at PUPLC
 - 🔭 Working on exciting projects
 - 🌱 Currently learning new technologies
 
-<!-- Connect Section (Vertical List / Pababa) -->
+<!-- Connect Section -->
 <h2>🌐 Connect With Me</h2>
 
 <p align="left">
@@ -25,7 +22,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="20" height="20" alt="Instagram" /> <b>@ae.lavia</b>
   </a>
 </p>
-
 
 <p align="left">
   <a href="mailto:angelivyprada09@gmail.com">
