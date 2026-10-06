@@ -1,10 +1,4 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=👋+Ivy+Prada" alt="Typing SVG" />
-  </a>
-</h1>
-
+<h1 align="center">Hi 👋, I'm Ivy Prada</h1>
 <h3 align="center">An explorer navigating the world of tech</h3>
 
 <!-- Banner / GIF Section -->
@@ -13,11 +7,11 @@
 </p>
 
 ## 🚀 About Me
-- 👩‍🎓 Second year college student at PUPLC
+-- 👩‍🎓Second year college student at PUPLC
 - 🔭 Working on exciting projects
 - 🌱 Currently learning new technologies
 
-<!-- Connect Section -->
+<!-- Connect Section (Vertical List / Pababa) -->
 <h2>🌐 Connect With Me</h2>
 
 <p align="left">
@@ -31,6 +25,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="20" height="20" alt="Instagram" /> <b>@ae.lavia</b>
   </a>
 </p>
+
 
 <p align="left">
   <a href="mailto:angelivyprada09@gmail.com">
@@ -46,20 +41,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</p>
-
----
-
-<!-- Interactive GitHub Stats Section -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<!-- Animated Contribution Snake -->
-<h3 align="center">🐍 My Contribution Graph</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
