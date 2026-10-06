@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ivy Prada</h1>
-<h3 align="center">An explorer navigating the world of tech</h3>
 <p align="center">
   <img <img width="736" height="414" alt="Developer mode on" src="https://github.com/user-attachments/assets/b11b28ed-d3d6-4a1d-975d-263e380f8ee5" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Ivy Prada</h1>
+<h3 align="center">An explorer navigating the world of tech</h3>
 
 ## 🚀 About Me
 - 🔭 Working on exciting projects
