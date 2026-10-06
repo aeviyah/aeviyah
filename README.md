@@ -1,6 +1,13 @@
-<!-- Pixel Art Header Picture -->
+<!-- Retro Pixel Game Banner Header -->
 <p align="center">
-<img width="1920" height="950" alt="h1 align=centerHi 👋, I&#39;m Ivy Pradah1 h3 align=centerAn explorer navigating the world of techh3 !-- Banner  GIF Section -- p align=center img" src="https://github.com/user-attachments/assets/8ae72926-cb46-4ebd-85b9-008813a1ceb4"
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=16&pause=1000&color=00FFCC&background=0F172A&center=true&vCenter=true&width=780&height=120&lines=%F0%9F%91%8B+Hi%2C+I'm+Ivy+Prada!;An+explorer+navigating+the+world+of+tech!;%F0%9F%90%BE+Level+2+College+Student+%40+PUPLC;Press+Start+to+Connect..." alt="Retro Pixel Typing Header" />
+  </a>
+</p>
+
+<!-- Pixel Art Mini Characters / Divider -->
+<p align="center">
+  👾 &nbsp;&nbsp; 🕹️ &nbsp;&nbsp; 👾 &nbsp;&nbsp; ⚔️ &nbsp;&nbsp; 👾
 </p>
 
 ## 🚀 About Me
