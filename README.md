@@ -7,6 +7,7 @@
 </p>
 
 ## 🚀 About Me
+-- 👩‍🎓Second year college student at PUPLC
 - 🔭 Working on exciting projects
 - 🌱 Currently learning new technologies
 
