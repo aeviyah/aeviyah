@@ -1,63 +1,41 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Ivy+Prada;An+explorer+navigating+tech!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hi 👋, I'm Ivy Prada</h1>
+<h3 align="center">An explorer navigating the world of tech</h3>
 
 <!-- Banner / GIF Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2Z3A3YnI0cmJ3a2thNW1mZjUza2d6ZXZ6eXJjMHZ4OGF5enVsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvAQQyVY9/giphy.gif" width="420" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2Z3A3YnI0cmJ3a2thNW1mZjUza2d6ZXZ6eXJjMHZ4OGF5enVsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvAQQyVY9/giphy.gif" width="400" alt="Coding GIF">
 </p>
 
 ## 🚀 About Me
-- 👩‍🎓 Second year college student at **PUPLC**
 - 🔭 Working on exciting projects
-- 🌱 Currently learning new technologies and tools
+- 🌱 Currently learning new technologies
 
----
-
-<!-- Connect Section (Icon + Text only, no boxes) -->
-## 🌐 Connect With Ivy
+<!-- Connect Section -->
+<h2>🌐 Connect With Ivy</h2>
 
 <p align="left">
   <!-- Facebook -->
   <a href="https://www.facebook.com/ivy.prada.3" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="22" height="22" alt="Facebook" />
-    <b>Ivy Prada</b>
+    <img src="https://img.shields.io/badge/Ivy_Prada-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <!-- Instagram -->
   <a href="https://instagram.com/ae.lavia?stkn=MWM1cHQwZ2ExaTM0eQ%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="22" height="22" alt="Instagram" />
-    <b>@ae.lavia</b>
+    <img src="https://img.shields.io/badge/@ae.lavia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <!-- Email -->
   <a href="mailto:angelivyprada09@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="22" height="22" alt="Gmail" />
-    <b>angelivyprada09@gmail.com</b>
+    <img src="https://img.shields.io/badge/angelivyprada09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
----
 
 ## 🛠 Tech Stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
-
----
-
-<!-- Interactive GitHub Stats Section -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
