@@ -7,27 +7,27 @@
 </p>
 
 ## 🚀 About Me
-- 👩‍🎓Second year college student at PUPLC
+-- 👩‍🎓Second year college student at PUPLC
 - 🔭 Working on exciting projects
 - 🌱 Currently learning new technologies
 
-<!-- Connect Section (Left Aligned) -->
+<!-- Connect Section -->
 <h2>🌐 Connect With Ivy</h2>
 
 <p align="left">
   <!-- Facebook -->
   <a href="https://www.facebook.com/ivy.prada.3" target="_blank">
-    <img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Ivy_Prada-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/ae.lavia?stkn=MWM1cHQwZ2ExaTM0eQ%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/@ae.lavia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
   <!-- Email -->
   <a href="mailto:angelivyprada09@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/angelivyprada09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
